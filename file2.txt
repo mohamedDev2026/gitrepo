@@ -2,3 +2,4 @@ first line in file2.txt
 second line added to file 
 I will a github professional inchallah
 hello welcome to github testing how can I help you
+train yourself with vs code git features
